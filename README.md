@@ -1,2 +1,2 @@
 # LeetCode
-LeetCode刷题之旅
+LeetCode练手之旅
